@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "file:/C:/Users/HP/Desktop/tp%20xml/relve.dtd">
+<releve RIB="354657698575">
+    <dateReleve>2024-01-02</dateReleve>
+    <solde>15000</solde>
+    <oprerations dateDebut="2024-01-01" dateFin="2024-01-30">
+        <opreration date="2024-01-01" montant="3000" type="CREDIT" description="VERS ESPECE"/>
+        <opreration date="2024-01-12" montant="4000" type="CREDIT" description="CHEQUE GUICHET"/>
+        <opreration date="2024-01-13" montant="300" type="CREDIT" description="GAME"/>
+        <opreration date="2024-01-17" montant="2000" type="DEBIT" description="VIREMENT"/>
+    </oprerations>
+</releve>
